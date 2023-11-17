@@ -1,0 +1,18 @@
+body {
+  font-family: 'Arial', sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  max-width: 600px;
+  margin: auto;
+  text-align: center;
+  padding: 20px;
+}
+
+.loader,
+.error {
+  display: none;
+  color: red;
+}
